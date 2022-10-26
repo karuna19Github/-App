@@ -3,8 +3,8 @@
 我做一個電子書 App介紹印尼國家
 
 使用 TabView 製作下面有 tab bar 的分頁。
-![1](https://user-images.githubusercontent.com/102145197/197998451-087d6ade-436c-4d5f-8a36-36f4a27d2b85.png)
 
+![layar](https://user-images.githubusercontent.com/102145197/198087621-81546f38-d378-4da9-a894-bf22f32b3da1.png)
 
 使用 NavigationStack(NavigationView) & NavigationLink 切換頁面 & 傳資料到下一頁，navigation bar 上要顯示標題。
        NavigationLink(
